@@ -12,21 +12,28 @@ Le css m'a pris peu de temps à réaliser, j'ai donc fait quelques changements d
 
 ### 3. [Difficultés]
 
-Je n'ai toutefois pas réussi à faire fonctionner les liens dans le footer. 
+Je n'ai toutefois pas réussi à faire fonctionner les liens dans le footer.
+
 ## Utilisation de l'IA
 
 ### Démarche
 
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
+J'utilise Gemini pour résoudre certains problèmes, ou si je ne comprends pas un concept.
 
 ### Apports et limites
 
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
+J'ai par exemple eu un problème : les boutons dans le header fonctionnaient mais pas dans le footer. Le problème était simplement que je m'étais trompé de "class".
+J'ai néanmoins demandé à gemini comment metre un lien vers un site (par exemple linkedIn) mais je n'ai pas réussi à avoir une réponse qui marchait (malgré le fait que j'ai reformulé trois fois ma question).
 
 ### Prompts significatifs
 
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
+1. "Dans mon site en html/css, les boutons marchent dans le header mais pas dans le footer ? + [captures d'écran] + [parties du code html et css dédiés aux boutons, au header et au footer]" → Je me suis trompé de "class" : j'ai juste mis <nav> au lieu de <nav class="menu-header-footer">.
+   
+2. "Je veux mettre un lien dans mon site en html/css, comment je fait ? + [captures d'écran] + [parties du code html et css dédiés au footer]"
+   → <nav class="menu-header-footer">
+      <a href="mailto:leofaulle@gmail.com" class="bouton-nav">Email</a>
+      <a href="www.linkedin.com/in/léo-faulle-a910973b6" target="_blank" class="bouton-nav">LinkedIn</a>
+      <a href="https://github.com/LeoKorrigan" target="_blank" class="bouton-nav">GitHub</a>
+    </nav>
+   
+    **problème : j'ai reformulé 3 fois et ça n'a pas marché.*
