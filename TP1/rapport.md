@@ -33,7 +33,7 @@ J'ai aussi demandé à gemini comment metre un lien vers un site (par exemple li
    → <nav‎ class="menu-header-footer">
       <a‎ href="mailto:leofaulle@gmail.com" class="bouton-nav">Email</a>
       <a‎ href="www.linkedin.com/in/léo-faulle-a910973b6" target="_blank" class="bouton-nav">LinkedIn</a>
-      <a‎ href="https://github.com/LeoKorrigan" target="_blank" class="bouton-nav">GitHub</a>
+      <a‎ href="https://github.com/LeoFaulle" target="_blank" class="bouton-nav">GitHub</a>
     </nav>
    
     **problème : j'ai reformulé 3 fois et ça n'a pas marché.*
