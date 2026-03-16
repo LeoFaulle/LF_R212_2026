@@ -23,7 +23,7 @@ J'utilise Gemini pour résoudre certains problèmes, ou si je ne comprends pas u
 ### Apports et limites
 
 J'ai par exemple eu un problème : les boutons dans le header fonctionnaient mais pas dans le footer. Le problème était simplement que je m'étais trompé de "class".
-J'ai néanmoins demandé à gemini comment metre un lien vers un site (par exemple linkedIn) mais je n'ai pas réussi à avoir une réponse qui marchait (malgré le fait que j'ai reformulé trois fois ma question).
+J'ai aussi demandé à gemini comment metre un lien vers un site (par exemple linkedIn) mais je n'ai pas réussi à avoir une réponse qui marchait (malgré le fait que j'ai reformulé trois fois ma question).
 
 ### Prompts significatifs
 
