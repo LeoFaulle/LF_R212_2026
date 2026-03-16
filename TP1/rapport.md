@@ -10,7 +10,10 @@ J'ai suivi le shéma donné pour structurer mon site : le header avec logo et bo
 
 Le css m'a pris peu de temps à réaliser, j'ai donc fait quelques changements dans le html, j'ai réfléchi à une charte graphique, les polices, les couleurs (sur https://coolors.co/), ainsi que les transitions sur les boutons et les cartes.
 
-### 3. [Difficultés]
+### 3. [Compétences et notions utilisées]
+
+
+### 4. [Difficultés]
 
 Je n'ai toutefois pas réussi à faire fonctionner les liens dans le footer.
 
