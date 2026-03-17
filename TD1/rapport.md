@@ -2,13 +2,14 @@
 
 ## Points clés
 
-### 1. [Titre du premier point]
+### 1. [Déroulé de la séance]
 
-[Explication en 1-2 phrases avec vos mots.]
+J'ai décidé de travailler avec mon bébou sucré au sucre des îles tropicales (cet enculé de Benjamin nethanyahou)
 
 ### 2. [Titre du deuxième point]
 
 [Explication en 1-2 phrases avec vos mots.]
+
 ### 3. [Titre du troisième point]
 
 [Explication en 1-2 phrases avec vos mots.]
