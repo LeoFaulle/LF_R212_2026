@@ -124,6 +124,14 @@ footer {
   transition: border-color 0.4s;
 }
 
+.image-arrondie {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid white;
+}
+
 .bouton-nav {         /* Boutons de navigation */
   background-color: #2341c7;
   color: #ffffff;
