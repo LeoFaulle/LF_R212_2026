@@ -4,30 +4,16 @@
 
 ### 1. [Déroulé de la séance]
 
-J'ai décidé de travailler avec mon bébou sucré au sucre des îles tropicales (cet enculé de Benjamin nethanyahou)
+J'ai décidé de travailler avec Benjamin pour cette séance.
+Pour l'analyse d'une application, nous avons choisi Canva, application que moi et Benjamin utilisons.
+Nous avons observé les parties de l'accueil de l'application, assez compliqué de nommer chaque parties car le design est très original.
 
-### 2. [Titre du deuxième point]
-
-[Explication en 1-2 phrases avec vos mots.]
-
-### 3. [Titre du troisième point]
-
-[Explication en 1-2 phrases avec vos mots.]
+Voici un screenshot avec notre analyse, les trois parties que nous avons identifiés :
+1 - Le header, avec un titre, une barre de recherche et les modèles populaires.
+2 - Le main, avec beaucoup plus de modèles et de designs, plus précis.
+3 - La barre de navigation, pour accéder à l'accueil, nos projets, des modèles ainsi qu'un bouton pour créer.
+<img width="2198" height="1080" alt="Frame 1" src="https://github.com/user-attachments/assets/9fa3df34-7776-44bd-9936-879c9b73a5d3" />
  
 ## Utilisation de l'IA
 
-### Démarche
-
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
-
-### Apports et limites
-
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
-
-### Prompts significatifs
-
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
+Je n'ai pas utilisé l'IA pour cette séance.
