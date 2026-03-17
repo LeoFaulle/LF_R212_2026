@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');          /* Importation de polices */
+@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
+
+:root {         /* Couleurs et polices */
+  --bg-principal: #ffffff;
+  --bg-secondaire: #ffffff;
+  --titre-font: rgb(110, 149, 255);
+  --texte-accueil: rgb(110, 149, 255);
+  --texte-principal: rgb(110, 149, 255);
+  --texte-footer: rgb(255, 255, 255);
+  --header-bg: rgb(94, 145, 255);
+  --footer-bg: rgb(94, 145, 255);
+  --accent: rgb(94, 145, 255);
+  --titre-font: 'Sail', cursive;
+  --footer-font: 'Seaweed';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--texte-font);
+  overflow-x: hidden;
+}
+
+main {
+    background-color: var(--bg-principal);
+    margin: 100px;
+    padding: 100px;
+}
+
+h1, h2, h3 {
+  margin: 30px 0;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 1.5;
+  margin-top: 0;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  align-items: center;
+  color: var(--texte-accueil);
+  font-family: var(--titre-font);
+}
+
+h2 {
+  font-size: 50px;
+  line-height: 1.5;
+  margin-top: 0;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--texte-accueil);
+  font-family: var(--titre-font);
+}
+
+h3 {
+  font-size: 40px;
+  line-height: 1.5;
+  margin-top: 0;
+  color: var(--texte-accueil);
+  font-family: var(--titre-font);
+}
+
+h4 {
+  line-height: 1.6;
+  font-size: 30px;
+  padding: 0;
+  color: var(--texte-footer);
+  font-style: oblique;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 20px;
+  padding: 0;
+  color: var(--texte-principal);
+}
+
+ul {
+  color: var(--texte-accueil);
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  background-color: var(--header-bg);
+  color: var(--bg-principal);
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.4s;
+}
+
+footer {
+  background-color: var(--footer-bg);
+  color: var(--bg-principal);
+  font-family: var(--footer-font);
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+}
+
+.menu-header {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.trait {          /* Trait de coupure */
+  width: 100%;
+  border: 3px solid var(--accent);
+  margin: 20px 0;
+  transition: border-color 0.4s;
+}
+
+.bouton-nav {         /* Boutons de navigation */
+  background-color: #2341c7;
+  color: #ffffff;
+  padding: 10px 20px;
+  width: 30%;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.bouton-nav:hover {
+  background-color: white;
+  color: #2341c7;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.switch-btn {
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+  padding: 10px 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+  user-select: none;
+  min-width: 160px;
+  text-align: center;
+  display: inline-block;
+}
+
+.switch-btn:hover {
+  transform: scale(1.05);
+}
+
+.switch-btn::after {
+  content: var(--btn-content);
+}
+
+@media screen and (max-width: 990px) {          /* Media queries */
+  
+  main {
+    margin: 20px;
+    padding: 20px;
+  }
+
+  h1 { font-size: 40px; }
+  h2 { font-size: 30px; }
+  h3 { font-size: 24px; }
+  h4 { font-size: 20px; }
+
+  header {
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+  }
+
+  .menu-header {
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .bouton-nav, .switch-btn {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+
+  footer {
+    flex-direction: column;
+    height: auto;
+    gap: 20px;
+    text-align: center;
+    padding: 30px 20px;
+  }
+}
