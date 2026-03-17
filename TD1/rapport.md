@@ -1,4 +1,4 @@
-# Rapport — [TD1 / TP1 / etc.]
+# Rapport — TD1
 
 ## Points clés
 
