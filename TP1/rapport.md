@@ -32,7 +32,7 @@ J'ai aussi demandé à gemini comment metre un lien vers un site (par exemple li
 
 ### Prompts significatifs
 
-1. "Dans mon site en html/css, les boutons marchent dans le header mais pas dans le footer ? + [captures d'écran] + [parties du code html et css dédiés aux boutons, au header et au footer]" → Je me suis trompé de "class" : j'ai juste mis‎ *<nav>‎* au lieu de <nav‎ class="menu-header-footer">.
+1. "Dans mon site en html/css, les boutons marchent dans le header mais pas dans le footer ? + [captures d'écran] + [parties du code html et css dédiés aux boutons, au header et au footer]" → Je me suis trompé de "class" : j'ai juste mis‎ <nav >‎ au lieu de <nav‎ class="menu-header-footer">.
    
 2. "Je veux mettre un lien dans mon site en html/css, comment je fait ? + [captures d'écran] + [parties du code html et css dédiés au footer]"
    → <nav‎ class="menu-header-footer">
