@@ -25,4 +25,4 @@ Je n'ai pas eu de difficultés pour ce site.
 
 J'utilise Gemini pour résoudre certains problèmes, ou si je ne comprends pas un concept.
 <br>
-Néanmoins pour ce site, j'ai tenté de le réaliser sans IA, un bon défi pour être meilleur en code et se rappeler de la syntaxe html et css pour plus tard.
+Néanmoins pour ce site, j'ai tenté de le réaliser sans IA, un bon défi pour être meilleur en code et se rappeler de la syntaxe html et css, qui peut être parfois assez compliquée.
