@@ -2,25 +2,22 @@
 
 ## Points clés
 
-### 1. [Structurer la page web en fonction du shéma donné]
+### 1. [Créer un site interctif en javascript]
 
-J'ai suivi le shéma donné pour structurer mon site : le header avec logo et boutons, le hero avec titre et CTA, le main avec 3 cartes, et une section à propos, et enfin un footer.
+J'ai suivi les exercices et j'ai compris assez facilement comment réaliser le javascript pour mettre en place les éléments interactifs. 
 
-### 2. [Détails]
+### 2. [Konami (Easter Egg)]
 
-Le css m'a pris peu de temps à réaliser, j'ai donc fait quelques changements dans le html, j'ai réfléchi à une charte graphique, les polices, les couleurs (sur https://coolors.co/), ainsi que les transitions sur les boutons et les cartes.
+Ayant fini en avance, je me suis amusé à créer un "code de triche" Konami, pour mettre des easter egg (que j'ai trouvé sur internet, je n'ai pas réalisé le code des easters eggs moi même).
+Le code de triche : 
 
-### 3. [Compétences et notions utilisées]
-J'ai compris comment utiliser flexbox et grid, le meilleur moyen pour disposer les éléments sur un site.
-J'ai appris à utiliser les cartes pour faire un beau site avec plusieurs parties.
-J'ai appris à faire des transitions et à ajouter des ombres pour rendre un site dynamique.
+### 3. [Difficultés]
 
-### 4. [Difficultés]
-
-
+Je n'ai pas eu de difficultés particulières
 
 ## Utilisation de l'IA
 
 ### Démarche
 
 J'utilise Gemini pour résoudre certains problèmes, ou si je ne comprends pas un concept.
+Ici, je n'ai pas utilisé l'IA, j'ai compris assez facilement comment faire les exercices en javascript.
