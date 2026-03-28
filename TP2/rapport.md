@@ -9,7 +9,7 @@ J'ai suivi les exercices et j'ai compris assez facilement comment réaliser le j
 ### 2. [Konami (Easter Egg)]
 
 Ayant fini en avance, je me suis amusé à créer un "code de triche" Konami, pour mettre des easter egg (que j'ai trouvé sur internet, je n'ai pas réalisé le code des easters eggs moi même).
-Le code de triche : 
+Le code de triche : ↑ ↑ ↓ →
 
 ### 3. [Difficultés]
 
@@ -19,5 +19,5 @@ Je n'ai pas eu de difficultés particulières
 
 ### Démarche
 
-J'utilise Gemini pour résoudre certains problèmes, ou si je ne comprends pas un concept.
+La plupart du temps, 'utilise Gemini pour comprendre un sujet, résoudre certains problèmes, ou si je ne comprends pas un concept.
 Ici, je n'ai pas utilisé l'IA, j'ai compris assez facilement comment faire les exercices en javascript.
